@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudentList</string>
+    <string name="insert_student">INSERT</string>
+    <string name="name">Vo Huynh An</string>
+    <string name="id">21</string>
+    <string name="faculty">Cong Nghe Thong Tin</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
